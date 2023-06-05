@@ -24,6 +24,8 @@ baseurl: "/jekyll-github-pages" # the subpath of your site, e.g. /blog
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# test
+
 # Build settings
 markdown: kramdown
 theme: minima
